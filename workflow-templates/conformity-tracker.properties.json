@@ -1,0 +1,13 @@
+{
+    "name": "Conformity Tracker",
+    "description": "Workflow to track conformity of a project",
+    "iconName": "example-icon",
+    "categories": [
+        "C",
+        "Checker",
+        "Conformity"
+    ],
+    "filePatterns": [
+        "Makefile"
+    ]
+}
